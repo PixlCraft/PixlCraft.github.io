@@ -1,0 +1,28 @@
+
+
+body {
+	font-family: 'Prata', serif;
+	background-image: url(imagine.jpg);
+	background-repeat: no-repeat;
+	background-position: center;
+	background-attachment:fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
+header.startup  {
+  display: flex;
+  justify-content: center; 	
+  margin-top: 400px;
+  margin-bottom: 30px; 
+}
+h1{	
+justify-content: center;
+}	
+.btn{
+	position:absolute;  
+    transition: .5s ease;
+    top: 70%;
+    right: 45%;
+}
